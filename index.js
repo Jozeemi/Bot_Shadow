@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Jugando🎮 Shadow Community"];
-const statusTypes = ['idle'];
+const statusTypes = ['online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
